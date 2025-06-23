@@ -46,7 +46,7 @@ Lead Recruiter with over 4 years of experience in full-cycle recruitment across 
 ## 🎓 Education
 
 - **B.Tech in Civil Engineering** – Himachal Pradesh Technical University (2017)  
-- **Minor in CSE & Next Gen Technologies** – IIT Mandi (Sep 2024 – Present)  
+- **Minor in CSE & Next Gen Technologies** – IIT Mandi (Sep 2024 – Oct 2025)  
 
 ---
 
