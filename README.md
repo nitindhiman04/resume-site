@@ -3,8 +3,7 @@
 
 **Senior Technical Recruiter | Full-Cycle Talent Acquisition | IT & Non-IT | Pharma | Global Hiring**
 
-📧 nitindhiman5647@gmail.com  
-📞 +91 9317809317  
+📧 nitindhiman5647@gmail.com   
 🔗 [LinkedIn](https://www.linkedin.com/in/nitindhiman4)  
 
 ---
