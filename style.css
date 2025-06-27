@@ -91,3 +91,14 @@ form button:hover {
     font-size: 1.2rem;
   }
 }
+
+#about {
+  margin-top: 40px;
+  background-color: #262626;
+  padding: 25px;
+  border-radius: 10px;
+  border-left: 5px solid #66ccff;
+}
+#about p {
+  margin-bottom: 15px;
+}
