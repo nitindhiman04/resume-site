@@ -8,9 +8,13 @@
 
 ---
 
-## 🧑‍💼 Professional Summary
+---
 
-Lead Recruiter with over 4 years of experience in full-cycle recruitment across IT, Non-IT, Engineering, Pharma, and Med-Tech industries. Hands-on experience in Sales & Marketing. Proven track record in sourcing and placing candidates across Contract, Contract-to-Hire, and Full-Time roles. Managed W2, C2C, and 1099 hiring models in the U.S., and T4 in Canada. Strong in client communication, sourcing, and handling end-to-end recruitment. Dependable, target-driven, and focused on results.
+## 🙋‍♂️ About Me
+
+I’m a Certified ASA Corporate Lead Recruiter with over 4 years of experience in global full-cycle recruitment. I’ve successfully placed top-tier talent across IT, Non-IT, Engineering, and Life Sciences industries, and I’m well-versed in W2, C2C, 1099, and T4 hiring models. I’m passionate about aligning the right talent with the right opportunity and continuously evolving through learning.
+
+Currently pursuing a part-time CSE program at IIT Mandi, I am committed to expanding my technical acumen while continuing to support strategic recruitment for global clients.
 
 ---
 
