@@ -39,6 +39,24 @@ h3 {
   margin-top: 20px;
 }
 
+/* Sections styling */
+section {
+  margin-top: 40px;
+  background-color: #262626;
+  padding: 25px;
+  border-radius: 10px;
+  border-left: 5px solid #66ccff;
+}
+
+section p {
+  margin-bottom: 15px;
+}
+
+section ul {
+  margin-bottom: 15px;
+  padding-left: 20px;
+}
+
 /* Links and bullets */
 a {
   color: #4fc3f7;
@@ -47,6 +65,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 ul {
   padding-left: 20px;
 }
@@ -61,11 +80,13 @@ form textarea {
   margin-top: 10px;
   margin-bottom: 15px;
   padding: 10px;
-  background-color: #333;
+  background-color: #1a1a1a;
   color: #f0f0f0;
   border: 1px solid #555;
   border-radius: 5px;
+  box-sizing: border-box;
 }
+
 form button {
   padding: 10px 20px;
   background-color: #66ccff;
@@ -75,6 +96,7 @@ form button {
   border-radius: 5px;
   cursor: pointer;
 }
+
 form button:hover {
   background-color: #4fbce3;
 }
@@ -90,15 +112,4 @@ form button:hover {
   h2 {
     font-size: 1.2rem;
   }
-}
-
-#about {
-  margin-top: 40px;
-  background-color: #262626;
-  padding: 25px;
-  border-radius: 10px;
-  border-left: 5px solid #66ccff;
-}
-#about p {
-  margin-bottom: 15px;
 }
