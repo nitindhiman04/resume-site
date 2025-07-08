@@ -25,7 +25,6 @@ Currently pursuing a part-time CSE program at IIT Mandi, I am committed to expan
 - Managed the full-cycle recruitment process for non-IT roles, including sourcing, screening, interviewing, and onboarding candidates.  
 - Placed candidates across W2 Contract, Contract-to-Hire, and Full-Time positions.  
 - Utilized SnapX.ai ATS, LinkedIn Recruiter, and U.S. Monster for talent acquisition.  
-- Supported clients like TCS, Specialized Recruiting Group, DCS Corp, Tyson Foods, and Kaiser Permanente.
 
 ### eTeam – Senior Technical Recruiter  
 📍 Noida/Remote | 📅 Mar 2022 – Jul 2024  
@@ -55,6 +54,7 @@ Currently pursuing a part-time CSE program at IIT Mandi, I am committed to expan
 
 ## 📜 Certifications
 
+- Generative AI, Recruiting, and Talent Acquisition
 - American Staffing Association Corporate Recruiting Certificate – Apr 2025  
 - Certified LinkedIn Recruiter User  
 - SME for Skill Enhancement – eTeam, Sep 2023  
